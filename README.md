@@ -1,6 +1,3 @@
-hello-world
-===========
+Portfolio
 
-:)
-
-i'm a designer and i'm trying to learn how to code. ;)
+Since there is some problem accessing Dribbble and Behance, I will upload my work here as an alternative. :)
