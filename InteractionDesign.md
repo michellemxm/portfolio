@@ -1,5 +1,0 @@
-![](./ixd/pokemo-01.png =600x5537)
-![](./ixd/NapQ-01.png =600x5625)
-![](./ixd/TimeToChange-01.png =600x6938)
-![](./ixd/96SEC-01.png =600x3997)
-![](./ixd/TheStateOfMind-01.png =600x4966)
