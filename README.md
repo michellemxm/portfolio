@@ -8,20 +8,30 @@ Since there's some problem accessing Dribbble and Behance in mainland China, the
 ###Interaction Design
 ====================
 
+POKEMO
+====================
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/ixd/pokemo-01.png)
 ====================
 
+NapQ
+====================
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/ixd/NapQ-01.png)
 ====================
 
+Time To Change
+====================
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/ixd/TimeToChange-01.png)
 ====================
 
+96 SEC
+====================
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/ixd/96SEC-01.png)
 ====================
 
+The State Of Mind
+====================
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/ixd/TheStateOfMind-01.png)
-
+====================
 
 
 ###Visual
@@ -30,6 +40,7 @@ Since there's some problem accessing Dribbble and Behance in mainland China, the
 #####Business Card
 
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/img/MichelleNameCard_54x90-01.png)
+====================
 
 #####UI
 
@@ -56,6 +67,7 @@ Since there's some problem accessing Dribbble and Behance in mainland China, the
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/illus/food-SteakPan-Filet.jpg)
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/illus/food-SteakPan-ribeye.jpg)
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/illus/food-SteakPan-Tenderloin.jpg)
+====================
 
 #####Portrait
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/img/YUM.jpg)
