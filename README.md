@@ -1,38 +1,40 @@
 Portfolio
 ====================
 
-Since there's some problem accessing Dribbble and Behance in mainland China, the portfolio is uploaded here as an alternative. The images can be quite large. Please be patient while loading. :)
+Since there's some problem accessing Dribbble and Behance, the portfolio is uploaded here as an alternative. The images can be quite heavy. Please be patient while loading. :)
 
 
 
 ###Interaction Design
 ====================
 
-POKEMO
-====================
+#####POKEMO
+<br>
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/ixd/pokemo-01.png)
 ====================
 
-NapQ
-====================
+#####NapQ
+<br>
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/ixd/NapQ-01.png)
 ====================
 
-Time To Change
-====================
+#####Time To Change
+<br>
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/ixd/TimeToChange-01.png)
 ====================
 
-96 SEC
-====================
+#####96 SEC
+<br>
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/ixd/96SEC-01.png)
 ====================
 
-The State Of Mind
-====================
+#####The State Of Mind
+<br>
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/ixd/TheStateOfMind-01.png)
 ====================
 
+<br>
+<br>
 
 ###Visual
 ====================
@@ -50,7 +52,8 @@ The State Of Mind
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/img/wechat.jpg)
 
 
-
+<br>
+<br>
 ###Illustrations
 ====================
 
