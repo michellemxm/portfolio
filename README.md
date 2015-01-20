@@ -7,43 +7,46 @@ Since there's some problem accessing Dribbble and Behance, the portfolio is uplo
 
 ###Interaction Design
 ====================
-
-#####POKEMO
 <br>
+<br>
+#####POKEMO
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/ixd/pokemo-01.png)
 ====================
+<br>
 
 #####NapQ
-<br>
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/ixd/NapQ-01.png)
 ====================
+<br>
 
 #####Time To Change
-<br>
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/ixd/TimeToChange-01.png)
 ====================
+<br>
 
 #####96 SEC
-<br>
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/ixd/96SEC-01.png)
 ====================
+<br>
 
 #####The State Of Mind
-<br>
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/ixd/TheStateOfMind-01.png)
 ====================
-
+<br>
 <br>
 <br>
 
 ###Visual
 ====================
-
+<br>
+<br>
 #####Business Card
-
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/img/MichelleNameCard_54x90-01.png)
 ====================
 
+<br>
+<br>
+<br>
 #####UI
 
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/img/app.png)
@@ -52,6 +55,7 @@ Since there's some problem accessing Dribbble and Behance, the portfolio is uplo
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/img/wechat.jpg)
 
 
+<br>
 <br>
 <br>
 ###Illustrations
@@ -71,7 +75,8 @@ Since there's some problem accessing Dribbble and Behance, the portfolio is uplo
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/illus/food-SteakPan-ribeye.jpg)
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/illus/food-SteakPan-Tenderloin.jpg)
 ====================
-
+<br>
+<br>
 #####Portrait
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/img/YUM.jpg)
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/img/edward.jpg)
