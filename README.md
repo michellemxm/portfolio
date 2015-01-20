@@ -8,49 +8,49 @@ Since there's some problem accessing Dribbble and Behance, the portfolio is uplo
 <br>
 
 ###Interaction Design
+<br>
+<br>
 ====================
-<br>
-<br>
 #####POKEMO
-====================
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/ixd/pokemo-01.png)
 <br>
 
-#####NapQ
 ====================
+#####NapQ
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/ixd/NapQ-01.png)
 <br>
 
-#####Time To Change
 ====================
+#####Time To Change
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/ixd/TimeToChange-01.png)
 <br>
 
-#####96 SEC
 ====================
+#####96 SEC
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/ixd/96SEC-01.png)
 <br>
 
-#####The State Of Mind
 ====================
+#####The State Of Mind
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/ixd/TheStateOfMind-01.png)
 <br>
 <br>
 <br>
 
 ###Visual
+<br>
+<br>
+
 ====================
-<br>
-<br>
 #####Business Card
-====================
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/img/MichelleNameCard_54x90-01.png)
 
 <br>
 <br>
 <br>
-#####UI
+
 ====================
+#####UI
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/img/app.png)
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/img/tag_launching.jpg)
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/img/box_in_iPad.jpg)
@@ -61,10 +61,10 @@ Since there's some problem accessing Dribbble and Behance, the portfolio is uplo
 <br>
 <br>
 ###Illustrations
+<br>
+<br>
 ====================
-
 #####Deli Gallery
-====================
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/illus/food-bakery-cornMuffin.jpg)
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/illus/food-bakery-RedGrapePastry.jpg)
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/illus/food-BbqGrill-BaconBurger.jpg)
@@ -78,7 +78,7 @@ Since there's some problem accessing Dribbble and Behance, the portfolio is uplo
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/illus/food-SteakPan-Tenderloin.jpg)
 <br>
 <br>
-#####Portrait
 ====================
+#####Portrait
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/img/YUM.jpg)
 ![Alt text](https://github.com/michellemxm/portfolio/blob/master/img/edward.jpg)
